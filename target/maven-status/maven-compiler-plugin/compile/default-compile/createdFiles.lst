@@ -1,0 +1,10 @@
+basePackage\app\Application.class
+basePackage\models\UserPage.class
+basePackage\controllers\SignUpController.class
+basePackage\models\User$UserBuilder.class
+basePackage\controllers\SignInController.class
+basePackage\configuration\JpaConfiguration.class
+basePackage\controllers\HomeController.class
+basePackage\models\User.class
+basePackage\models\UserPage$UserPageBuilder.class
+basePackage\repositories\UserPageRepository.class

@@ -1,0 +1,52 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+html, body
+{
+    position:relative;
+    margin:0 auto;
+    text-align:left;
+    clear:left;
+    width:800px;
+    min-height:600px;
+    height:auto;
+    z-index: 0;
+}
+.rounded {
+    background-color: #777;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; }
+
+.roundedForTime {
+    background-color: #333;
+    color: #fff;
+    font-weight: normal;
+    padding: 10px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; }
+.distance
+{
+    width:1px;
+    height:50%;
+    margin-bottom:-300px;
+    float:left;
+}
+
+
+.location
+{
+    position:relative;
+    margin:0 auto;
+    text-align:left;
+    clear:left;
+    width:400px;
+    min-height:600px;
+    height:auto;
+    z-index: 0;
+}
