@@ -21,6 +21,8 @@ import java.util.Properties;
 @EnableJpaRepositories(basePackages = "basePackage.repositories")
 @EnableTransactionManagement
 public class JpaConfiguration {
+    
+    @Autowired
     private final DataSource dataSource;
 
     @Autowired
